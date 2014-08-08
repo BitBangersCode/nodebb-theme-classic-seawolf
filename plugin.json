@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-classic",
+	"id": "nodebb-theme-classic-seawolf",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
